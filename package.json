@@ -1,0 +1,23 @@
+{
+  "name": "ts-webpack",
+  "version": "1.0.0",
+  "description": "ts多文件实践",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTMana/ts-webpack.git"
+  },
+  "author": "LT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LTMana/ts-webpack/issues"
+  },
+  "devDependencies": {
+    "@types/node": "^8.5.1"
+  },
+  "homepage": "https://github.com/LTMana/ts-webpack#readme"
+}
